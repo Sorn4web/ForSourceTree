@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dslfkjsdlkfjsldfjsdlkfj
+=======
+Some error!!!!!
+>>>>>>> err1
